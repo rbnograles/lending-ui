@@ -38,7 +38,7 @@ export const Footer = () => {
           <div className="md:w-1/3 mb-8 md:mb-0">
             <div className="flex items-center space-x-3">
               <img
-                src="/src/assets/logoDevEngine.png"
+                src="/public/logoDevEngine.png"
                 alt="DevEngine Logo"
                 className="w-8 h-8 object-contain"
               />
