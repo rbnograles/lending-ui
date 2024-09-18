@@ -1,5 +1,7 @@
 // src/components/NavBar.jsx
 import React, { useState, useEffect } from "react";
+// @ts-ignore
+import logo from "../assets/logoDevEngine.png";
 
 const Navbar = () => {
   const [activeSection, setActiveSection] = useState("");
@@ -27,11 +29,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
         {/* Logo */}
         <div className="text-2xl font-bold text-blue-400 flex-shrink-0">
-          <img
-            src="/public/logoDevEngine.png"
-            alt="Logo"
-            className="inline-block w-8 h-8 mr-2"
-          />
+          <img src={logo} alt="Logo" className="inline-block w-8 h-8 mr-2" />
           <span className="text-lg text-gray-400">EquipLink</span>
         </div>
 
