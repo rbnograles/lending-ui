@@ -7,21 +7,21 @@ const FeaturedSection = () => {
       name: "Conference Room",
       description:
         "A fully equipped and modern conference room with a capacity of up to 100 people, perfect for meetings and workshops.",
-      img: "/img/conference-room.jpg",
+      img: "https://imgs.search.brave.com/zQkuvC4ZCP9UnzhsfTJhMg1z8YRUschHc2UWw7X_v4g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA3LzcwLzA5Lzcw/LzM2MF9GXzc3MDA5/NzAwMF9ORjdaTWZL/NjNlYUJBZnU2Zncx/bWhFTEF6elREVWtY/Ry5qcGc",
       rating: 4.5,
     },
     {
       name: "Gym Equipment",
       description:
         "Top-tier gym equipment, including treadmills, weights, and more. Perfect for fitness centers and personal trainers.",
-      img: "/img/gym-equipment.jpg",
+      img: "https://imgs.search.brave.com/bNsLR0XVyyt9fnuMor1Dz6DQwesesrz240RFsatC10E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzAzLzQ0Lzgy/LzM2MF9GXzMwMzQ0/ODI3NF8wTjdpWXBa/N0I4RXIzejdpRFJh/NzB6aHhpaEdmanBO/Wi5qcGc",
       rating: 4.8,
     },
     {
       name: "Event Hall",
       description:
         "A spacious event hall with audio-visual equipment, ideal for weddings, parties, and large corporate events.",
-      img: "/img/event-hall.jpg",
+      img: "https://imgs.search.brave.com/lXU2jsa65pyd9zCXOfpipRAdQwmnukDMmjBw1Jg04rg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU2Lzdl/L2M5LzU2N2VjOWNi/NzY2YmI4NTk0ZWEz/MjA5MjNjMzNmNTRh/LmpwZw",
       rating: 4.7,
     },
   ];
