@@ -28,7 +28,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-2xl font-bold text-blue-400 flex-shrink-0">
           <img
-            src="/src/assets/logoDevEngine.png"
+            src="/public/logoDevEngine.png"
             alt="Logo"
             className="inline-block w-8 h-8 mr-2"
           />
