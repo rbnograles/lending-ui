@@ -32,7 +32,7 @@ const Navbar = () => {
             alt="Logo"
             className="inline-block w-8 h-8 mr-2"
           />
-          <span className="text-lg text-gray-400">Facility Manager</span>
+          <span className="text-lg text-gray-400">EquipLink</span>
         </div>
 
         {/* Centered Links for large screens */}
